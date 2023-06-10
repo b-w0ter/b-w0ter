@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Elektro-mechanical engineer using python for work and exploring this amazing world of open-source and collaboration. 
+
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Python    |
+
+
+
 <!--
 **b-w0ter/b-w0ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
